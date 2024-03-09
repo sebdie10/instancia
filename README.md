@@ -1,2 +1,2 @@
 # instancia
-instancia de pruea
+instancia de prueba y estudio 
