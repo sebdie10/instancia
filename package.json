@@ -27,7 +27,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "npm install @libsql/client"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
